@@ -164,7 +164,7 @@ def export_to_pdf():
 
 
 def export_receipt_pdf():
-    student_id = simpledialog.askstring("Input", "Enter student ID for receipt:").upper()
+    student_id = simpledialog.askstring("Input", "Enter student ID for receipt:").upper().strip()
 
     try:
         with open(FILENAME, mode="r", newline='', encoding="utf-8") as f:
@@ -208,7 +208,7 @@ def main():
     initialize_file()
 
     root = tk.Tk()
-    root.geometry("720x300")
+    root.geometry("520x300")
     root.title("Student Management System")
 
     btn1 = tk.Button(root, text="Add Student", command=add_student_gui)
