@@ -109,7 +109,7 @@ student-management-system/
 - Python 3.x  
 - Required libraries (install via pip if not available):
   ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ---
 ## 📜 License
 This project is open-source and free to use under the MIT License.
