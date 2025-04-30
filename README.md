@@ -5,7 +5,7 @@
 ![CSV](https://img.shields.io/badge/CSV-239120?style=for-the-badge&logo=csv&logoColor=white)
 ![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/wH5nle2Zk4s>
 ## 📘 Project Description
 
 This is a mini-project built in Python using Tkinter for the GUI. It aims to help manage student payment records for a course or training. The application allows you to:
